@@ -1,6 +1,7 @@
 # fqlib - Illumina-based FastQ library written for performance.
 
 [![Build Status](https://travis-ci.org/stjude/fqlib.svg?branch=master)](https://travis-ci.org/stjude/fqlib)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstjude%2Ffqlib.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstjude%2Ffqlib?ref=badge_shield)
 
 A package written in Python for manipulating Illumina generated FastQ files. This code
 is based on best practices developed and maintained at St. Jude Children's Research
@@ -75,3 +76,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstjude%2Ffqlib.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstjude%2Ffqlib?ref=badge_large)
